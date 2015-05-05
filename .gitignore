@@ -1,0 +1,15 @@
+# ignore binary/compiled files
+*.[oa]
+
+# ignore vim files
+.*.swp
+
+# Java class files
+*.class
+
+# Eclipse project files
+.classpath
+.project
+*.prefs
+
+*.so
